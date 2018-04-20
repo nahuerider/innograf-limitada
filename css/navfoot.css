@@ -1,0 +1,183 @@
+
+@media only screen and (min-width: 1200px) {
+    #navnegro{
+	background-color:black;
+	height:100px;
+	}
+	#menunavcol{
+		height:100%;
+	}
+	.navlink{
+		text-decoration:none;
+		color:white;
+		vertical-align:middle;
+	}
+	.fas{
+		color:white;
+		margin-top:4px;
+	}
+	.far{
+		color:white;
+		margin-top:4px;
+		
+	}
+	#navh2{
+		margin-top:10px;
+	}
+	.imagennav{
+		width:400px;
+		height:100px;
+	}
+}
+@media only screen and (max-width: 1199px) and (min-width:992px) {
+    #navnegro{
+	background-color:black;
+	height:100px;
+	}
+	#menunavcol{
+		height:100%;
+	}
+	.navlink{
+		text-decoration:none;
+		color:white;
+		vertical-align:middle;
+	}
+	.fas{
+		color:white;
+		margin-top:4px;
+	}
+	.far{
+		color:white;
+		margin-top:4px;
+		
+	}
+	#navh2{
+		margin-top:10px;
+	}
+	.imagennav{
+		width:400px;
+		height:100px;
+	}
+}
+@media only screen and (max-width: 991px) and (min-width:768px) {
+    #navnegro{
+	background-color:black;
+	height:100px;
+	}
+	#menunavcol{
+		height:100%;
+	}
+	.navlink{
+		text-decoration:none;
+		color:white;
+		vertical-align:middle;
+	}
+	.fas{
+		color:white;
+		margin-top:4px;
+	}
+	.far{
+		color:white;
+		margin-top:4px;
+		
+	}
+	#navh2{
+		margin-top:10px;
+		font-size:25px;
+	}
+	.imagennav{
+		width:100%;
+		height:100px;
+	}
+}
+@media only screen and (max-width: 767px) and (min-width:544px) {
+    #navnegro{
+	background-color:black;
+	height:100px;
+	}
+	#menunavcol{
+		height:100%;
+	}
+	.navlink{
+		text-decoration:none;
+		color:white;
+		vertical-align:middle;
+	}
+	.fas{
+		color:white;
+		margin-top:4px;
+	}
+	.far{
+		color:white;
+		margin-top:4px;
+		
+	}
+	#navh2{
+		margin-top:10px;
+	}
+	.imagennav{
+		width:400px;
+		height:100px;
+	}
+}
+@media only screen and (max-width: 767px) and (min-width:544px) {
+    #navnegro{
+	background-color:black;
+	height:100px;
+	}
+	#menunavcol{
+		height:100%;
+	}
+	.navlink{
+		text-decoration:none;
+		color:white;
+		vertical-align:middle;
+	}
+	.fas{
+		color:white;
+		margin-top:4px;
+	}
+	.far{
+		color:white;
+		margin-top:4px;
+		
+	}
+	#navh2{
+		margin-top:10px;
+		font-size:20px;
+	}
+	.imagennav{
+		width:100%;
+		height:100px;
+	}
+}
+@media only screen and (max-width: 543px) {
+    #navnegro{
+	background-color:black;
+	height:100px;
+	}
+	#menunavcol{
+		height:100%;
+	}
+	.navlink{
+		text-decoration:none;
+		color:white;
+		vertical-align:middle;
+	}
+	.fas{
+		color:white;
+		margin-top:4px;
+	}
+	.far{
+		color:white;
+		margin-top:4px;
+		
+	}
+	#navh2{
+		margin-top:10px;
+	}
+	.imagennav{
+		width:400px;
+		height:100px;
+	}
+}
